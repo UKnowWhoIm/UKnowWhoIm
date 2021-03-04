@@ -8,8 +8,8 @@
 
 <img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/python.png" height="46" width="46" alt="Python"/>    
 <img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/django.png" height="46" width="46" alt="Django"/>
+<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/nodeJs.png" height="46" width="46" alt="Node JS"/>    
 <img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/flutter.png" height="46" width="46" alt="Flutter"/>    
-<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/nodejs.jpg" height="46" width="46" alt="Node JS"/>    
 
 <br/><br/><br/>
 <details>
