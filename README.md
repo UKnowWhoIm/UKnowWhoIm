@@ -1,4 +1,6 @@
-## I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
+<img width='40' align="left" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"/><h2>Hi there, Im Sidharth</h2>
+
+### I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Laravel.
@@ -13,8 +15,13 @@
 
 <br/><br/><br/>
 <details>
-<summary>📊 
-  <b><i>Github Stats</i></b>
-</summary>
-<p align="center"> <img src="https://github-readme-stats-drab-iota.vercel.app/api/?username=UKnowWhoIm&theme=gotham" alt="Sidharth Ajithkumar | Stats" />
+  <summary>📊 
+    <b><i>Github Stats</i></b>
+  </summary>
+  
+  <p align="center"><br/>
+    <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=UKnowWhoIm&layout=compact&theme=nightowl" height="180px" />
+    <img src="https://github-readme-stats-drab-iota.vercel.app/api/top-langs/?username=UKnowWhoIm&layout=compact&theme=nightowl" height="180px"/>
+  </p>
+
 </details>
