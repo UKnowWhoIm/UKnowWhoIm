@@ -1,4 +1,4 @@
-<h1><img width='40' style="max-width:100%;" align="left" src="https://github.com/AVS1508/AVS1508/blob/master/assets/Hand%20Wave.gif"/> Hi there, I'm Sidharth</h1>
+<h1>👋 Hi there, I'm Sidharth</h1>
 
 ### I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 
