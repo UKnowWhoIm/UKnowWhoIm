@@ -1,4 +1,6 @@
-## I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
+<h1>👋 Hi there, I'm Sidharth</h1>
+
+### I'm a B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Laravel.
@@ -8,13 +10,18 @@
 
 <img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/python.png" height="46" width="46" alt="Python"/>    
 <img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/django.png" height="46" width="46" alt="Django"/>
+<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/nodeJs.png" height="46" width="46" alt="Node JS"/>    
 <img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/flutter.png" height="46" width="46" alt="Flutter"/>    
-<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/nodejs.jpg" height="46" width="46" alt="Node JS"/>    
 
 <br/><br/><br/>
 <details>
-<summary>📊 
-  <b><i>Github Stats</i></b>
-</summary>
-<p align="center"> <img src="https://github-readme-stats-drab-iota.vercel.app/api/?username=UKnowWhoIm&theme=gotham" alt="Sidharth Ajithkumar | Stats" />
+  <summary>📊 
+    <b><i>Github Stats</i></b>
+  </summary>
+  
+  <p align="center"><br/>
+    <img src="https://github-readme-stats-drab-iota.vercel.app/api?username=UKnowWhoIm&layout=compact&theme=nightowl" height="180px" />
+    <img src="https://github-readme-stats-drab-iota.vercel.app/api/top-langs/?username=UKnowWhoIm&layout=compact&theme=nightowl" height="180px"/>
+  </p>
+
 </details>
