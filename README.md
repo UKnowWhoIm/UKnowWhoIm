@@ -8,11 +8,11 @@
 
 ### <b><i>Languages and Tools</i></b>
 
-[<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/python.png" height="46" width="46" alt="Python"/>](https://www.python.org/)
-[<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/django.png" height="46" width="46" alt="Django"/>](https://www.djangoproject.com/)
-[<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/nodeJs.png" height="46" width="46" alt="Node JS"/>](https://nodejs.org/)
-[<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/flutter.png" height="46" width="46" alt="Flutter"/>](https://flutter.dev/)  
-[<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/cpp.png" height="46" width="46" alt="C++"/>](https://isocpp.org/)
+<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/python.png" height="46" width="46" alt="Python"/>
+<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/django.png" height="46" width="46" alt="Django"/>
+<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/nodeJs.png" height="46" width="46" alt="Node JS"/>
+<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/flutter.png" height="46" width="46" alt="Flutter"/>
+<img align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/cpp.png" height="46" width="46" alt="C++"/>
 
 
 <br/><br/><br/>
