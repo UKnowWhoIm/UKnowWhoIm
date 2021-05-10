@@ -7,6 +7,15 @@
 - :hammer: I'm always looking forward to build new and exciting stuff.
 - :boy: Pronouns: He/Him
 
+<p align="left">
+  <a href="mailto:sidharthajithkumar@gmail.com" target="_blank">
+    <img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/uknowwhoim/" target="_blank">
+    <img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ### <b><i>Languages and Tools</i></b>
 
 <img title="Python" align="left" src="https://github.com/UKnowWhoIm/UKnowWhoIm/blob/master/res/python.png" height="46" width="46" alt="Python"/>
