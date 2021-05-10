@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sidharth
 
 ### About Me
-- :telescope: I’m currently working on some cool
+- :telescope: I’m currently working on something cool
 - :gem: I'm currently learning **FastAPI** and **Laravel**
 - :mortar_board: B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 - :hammer: I'm always looking forward to build new and exciting stuff.
