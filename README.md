@@ -3,7 +3,7 @@
 ### About Me
 - :telescope: I’m currently working on something cool
 - :gem: I'm currently learning **FastAPI** and **Laravel**
-- :mortar_board: B.Tech undergrad in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
+- :mortar_board: B.Tech undergrad in CSE at RIT, Kottayam.
 - :hammer: I'm always looking forward to build new and exciting stuff.
 - :boy: Pronouns: He/Him
 
